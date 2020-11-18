@@ -31123,7 +31123,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: 20px 0 20px auto;
+  margin: 20px 0 0 auto;
 }
 
 .u-header .u-nav-1 {
@@ -31132,6 +31132,12 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-nav-2 {
   font-size: 1rem;
+}
+
+.u-header .u-image-1 {
+  width: 76px;
+  height: 76px;
+  margin: -56px auto -24px 0;
 }
 
 
