@@ -77,7 +77,6 @@
 
 .u-section-3 .u-custom-html-1 {
   min-height: 607px;
-  height: auto;
   margin: 19px 570px 0 0;
 }
 
@@ -91,6 +90,7 @@
 
 @media (max-width: 1199px) {
   .u-section-3 .u-custom-html-1 {
+    height: auto;
     margin-right: initial;
     margin-left: initial;
   }
@@ -124,7 +124,6 @@
 
 .u-section-4 .u-custom-html-1 {
   min-height: 607px;
-  height: auto;
   margin: 19px 570px 0 0;
 }
 
@@ -138,6 +137,7 @@
 
 @media (max-width: 1199px) {
   .u-section-4 .u-custom-html-1 {
+    height: auto;
     margin-right: initial;
     margin-left: initial;
   }
