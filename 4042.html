@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <title>Nathan3DPrint</title>
+        <link rel="icon" type="image/png" href="/images/favicon.png"/>
+<link rel="icon" type="image/png" href="https://nathan3dprint.tk/images/favicon.png"/>
+	</head>
+
+	<body>
+		<div id="stl_cont" style="width:500px;height:500px;margin:0 auto;"></div>
+
+		<script src="stl_viewer.min.js"></script>		
+		<script>
+			var stl_viewer=new StlViewer
+			(
+				document.getElementById("stl_cont"),
+				{
+					models:
+					[
+						{filename:"files/4042.stl"}
+					]
+				}
+			);
+		</script>
+		
+	</body>
+</html> 
