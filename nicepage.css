@@ -31226,14 +31226,15 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    margin-left: -50px;
+    margin-top: -55px;
+    margin-left: -38px;
   }
 
   .u-header .u-text-2 {
     width: auto;
     margin-top: -76px;
-    margin-bottom: 2px;
-    margin-left: 76px;
+    margin-bottom: 1px;
+    margin-left: 47px;
   }
 }
 @media (max-width: 991px) {
