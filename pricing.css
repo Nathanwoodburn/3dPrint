@@ -39,7 +39,6 @@
 .u-section-1 .u-layout-wrap-1 {
   margin-top: 60px;
   margin-bottom: 60px;
-  position: relative;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -103,6 +102,10 @@
 
   .u-section-1 .u-text-1 {
     margin-top: 20px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    position: relative;
   }
 
   .u-section-1 .u-layout-cell-1 {
